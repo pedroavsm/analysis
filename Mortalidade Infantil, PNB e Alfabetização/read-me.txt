@@ -1,0 +1,15 @@
+
+
+Esse exercício replica um exemplo ilustrativo apresentado em Gujarati (Exemplo 7.1 - Econometria Básica, 5 ed. pag 214).
+Trata-se de um modelo de regressão múltipla que realciona mortalidade infantil, PNB per capita e taxa de alfabetização feminina.
+
+Os dados estão na página 185 do Gujarati, na tabela 6.4 do capítulo 6.
+Esses dados também são disponibilizados em formato Excel no arquivo 'Fecundidade e outras informações.xlsx'.
+
+O exemplo 7.6 está apresentado na página 214.
+
+Embora existam outras análises possíveis para os dados utilizados neste exercício, o objetivo principal é replicar os resultados apresentados no livro.
+Também são feitos alguns comentários sobre os dados e resultados.
+
+O exercício, análise e comentários estão contidos no Jupyter Notebook fecundidade.ipynb.
+
